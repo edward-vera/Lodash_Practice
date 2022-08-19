@@ -1,0 +1,23 @@
+{
+  "name": "lodash_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward-vera/Lodash_Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edward-vera/Lodash_Practice/issues"
+  },
+  "homepage": "https://github.com/edward-vera/Lodash_Practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^10.0.0"
+  }
+}
