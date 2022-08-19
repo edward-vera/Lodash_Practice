@@ -45,7 +45,7 @@ if(typeof describe === 'function') {
 
     describe("#testing chunk length", function() {
         it('should check if numbers are not in the same order', function(){
-            assert.notEqual(myChunk, myShuffle); 
+            assert.notEqual(JSON.stringify(numbers), JSON.stringify(myShuffle)); 
         });
     })
 
